@@ -111,7 +111,7 @@ http://ivi.bupt.edu.cn/hls/cetv3.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cetv4.jpg" group-title="卫视台",中国教育4台
 http://ivi.bupt.edu.cn/hls/cetv4.m3u8
 #EXTINF:-1 tvg-logo="http://static2.tvzhe.com/channel/logo/SDETV1.jpg?1" group-title="卫视台",山东教育
-http://ivi.bupt.edu.cn/hls/lytv.m3u8
+http://39.135.34.153:18890/000000001000/1000000002000004097/1.m3u8?channel-id=ystenlive&Contentid=1000000002000004097&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000004097&owchid=ystenlive&owsid=1106497909461623363&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhQh378KcG4gga4vRnyBidEMtSo4pdNiVnB7cAOBwj3CyvL3T5WhKfQVwdHIJjtMT4
 #EXTINF:-1 tvg-logo="http://static2.tvzhe.com/channel/logo/XMTV5.jpg" group-title="卫视台",厦门卫视
 http://ivi.bupt.edu.cn/hls/xmtv.m3u8
 #EXTINF:-1 tvg-name ="上海纪实" tvg-logo="http://www.tvyan.com/uploads/dianshi/docutv.jpg" group-title="卫视台",纪实人文
