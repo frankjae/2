@@ -174,7 +174,7 @@ http://123.54.179.73/PLTV/88888888/224/3221225728/index.m3u8
 http://60.255.149.208/tslive/c211_scc_20190618_ek4k254b_original_r10/c211_scc_20190618_ek4k254b_original_r10.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/chcdzdy.jpg" group-title="付费频道",CHC动作电影
 http://60.255.149.208/tslive/c213_scc_20190618_wzkayvu1_original_r10/c213_scc_20190618_wzkayvu1_original_r10.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/chcjtdy.jpg" group-title="付费频道",CHC家庭电影
+#EXTINF:-1 tvg-logo="http://static2.tvzhe.com/channel/logo/CHC2.jpg" group-title="付费频道",CHC家庭电影
 http://60.255.149.208/tslive/c212_scc_20190618_q0ktot1t_original_r10/c212_scc_20190618_q0ktot1t_original_r10.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/qiusuojilu.jpg" group-title="付费频道",求索记录
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228972/01.m3u8?fmt=ts2hls
@@ -281,7 +281,7 @@ http://39.135.15.70:6610/PLTV/88888888/224/3221225692/1/1000.m3u8?IAS
 #EXTINF:-1 tvg-logo="http://static2.tvzhe.com/channel/logo/KUAILECHUIDIAO.jpg" group-title="付费频道",快乐垂钓
 http://39.135.23.155/PLTV/88888888/224/3221229871/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/chapindao.jpg" group-title="付费频道",茶频道
-http://39.135.23.155/PLTV/88888888/224/3221229873/index.m3u8
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229404/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/jslz.jpg" group-title="付费频道",靓妆频道
 http://39.135.15.70:6610/PLTV/88888888/224/3221225680/1/1000.m3u8?IAS
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/shengzheng.jpg" group-title="付费频道",DV生活频道
