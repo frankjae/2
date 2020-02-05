@@ -36,7 +36,7 @@ http://123.54.179.73/PLTV/88888888/224/3221225703/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cgtnnews.jpg" group-title="中央台",CGTN
 http://123.54.179.73/PLTV/88888888/224/3221226368/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cgtndocumentary.jpg" group-title="中央台",CGTNDocumentary
-http://ivi.bupt.edu.cn/hls/cgtndochd.m3u8
+http://39.135.34.140:18890/000000001000/8428799834696888424/1.m3u8?channel-id=ystenlive&Contentid=8428799834696888424&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=8428799834696888424&owchid=ystenlive&owsid=1106497909461789280&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7RqKDfJDas7YyDZNJl7HttN1saAiHHRx97PWslNR2vzkU1dWcTZfUtlvjMMZgBZvORGIuGa%2b7fRg7bV0%2fSlWh1
 
 #EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/hunanstv/jkgsdjg.png" group-title="卫视台",湖南卫视
 http://123.54.179.73/PLTV/88888888/224/3221225639/index.m3u8
